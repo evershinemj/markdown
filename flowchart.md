@@ -8,5 +8,5 @@ io=>inputoutput: input/output
 
 st->op->cond
 cond(yes)->io->e
-cond(no)->ex>e
+cond(no)->ex->e
 ```
