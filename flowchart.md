@@ -1,4 +1,3 @@
-```flowchart
 s=>start: start
 e=>end: end
 op=>operation: isHotToday() == true?
@@ -8,4 +7,3 @@ io=>inputoutput: input/output
 st->op->cond
 cond(yes)->io->e
 cond(no)->ex>e
-```
