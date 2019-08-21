@@ -1,4 +1,4 @@
-```flowchart
+```flow
 s=start: start
 e=end: end
 op=operation: isHotToday() == true?
