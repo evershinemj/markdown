@@ -6,7 +6,7 @@ ex=>operation: exception
 cond=>condition: yes or no?
 io=>inputoutput: input/output
 
-st->op->cond
+s->op->cond
 cond(yes)->io->e
 cond(no)->ex->e
 ```
