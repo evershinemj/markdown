@@ -3,3 +3,6 @@
 ```
 Thread.sleep(1000);
 ```
+# hot
+> By the way, it's so hot now!
+> wanna eat **ice-cream**!
