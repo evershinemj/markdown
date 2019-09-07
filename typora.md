@@ -1,19 +1,5 @@
 # typora
 
-**good night**
-
-*great*
-
-`java`
-
-```java
-System.out.println("hey");
-```
-
-> fun
-
-this is a great *markdown* editor
-
 ```flow
 s=>start: start
 e=>end: end
@@ -24,6 +10,6 @@ s->cond
 cond(yes)->op->e
 cond(no)->e
 ```
-
+ctrl-,  open preferences
 
 
