@@ -1,5 +1,6 @@
 # typora
 
+## flowchart
 ```flow
 s=>start: start
 e=>end: end
@@ -10,6 +11,14 @@ s->cond
 cond(yes)->op->e
 cond(no)->e
 ```
+
+## open preferences
 ctrl-,  open preferences
 
-
+## markdown extended syntax
+### subscript
+x~2~(the trailing tilde is necessary)
+### superscript
+x^2^(the trailing caret is necessary)
+### highlight
+==key==
