@@ -22,3 +22,6 @@ x~2~(the trailing tilde is necessary)
 x^2^(the trailing caret is necessary)
 ### highlight
 ==key==
+
+## spell check
+spell check can be disabled in settings
